@@ -5,7 +5,7 @@
 OSS에 관심을 가지게 되어 공부하고 있습니다.
 
 ## Career
-- 영남대학교 기계IT대학 컴퓨터공학과 학생
+- 영남대학교 기계IT대학 컴퓨터공학과
 
 ## Links
 - E-mail: nex721@naver.com
